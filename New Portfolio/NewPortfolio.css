@@ -1,0 +1,57 @@
+#Home {
+        background: url("https://wallpaperplay.com/walls/full/b/0/0/34813.jpg") no-repeat center center ;
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  
+}
+
+
+.display-4 {
+    font-family: 'Marck Script', cursive;
+    font-size: 5rem;
+    color: rgb(159, 26, 236); 
+}
+
+.navbar {
+    color: white;
+    font-family: "Source Code Pro", monospace;
+    /* font-weight: bold; */
+}
+
+.lead {
+    font-family: "Source Code Pro", monospace;
+}
+
+.img-fluid {
+  
+    margin-bottom: 10px;
+}
+
+#aboutHeader {
+    margin-top: 75px;
+    color: rgb(159, 26, 236);
+    font-family: "Source Code Pro", monospace;
+    font-weight: bold;
+    font-size: 4rem;
+}
+
+#aboutParagraph {
+    color: white;
+    font-family:"Source Code Pro", monospace;
+    font-size: 1.25rem;
+}
+
+#Projects {
+    background-color: rgb(34, 26, 41);
+    background-image: linear-gradient(rgba(226, 43, 195, 0.637),rgb(34, 26, 41));
+}
+
+#projectsHeader {
+    margin-top: 75px;
+    color:rgb(226, 43, 195) ;
+    font-family: "Source Code Pro", monospace;
+    font-weight: bold;
+    font-size: 4rem;
+}
